@@ -1,0 +1,10 @@
+Descrição da chamada por linha de comando:
+Para chamar o programa por linha de comando deve-se passar pelo menos dois parâmetros:
+	Entrada e o nome do arqivo de entrada (arquivo csv ou xml):
+		-i "caminho do arquivo de entrada"
+	Saída e caminho onde o arquivo de saída será salvo:
+		-o "caminho do arquivo de saída"
+
+Existe ainda as tags:
+	-l -> Gera logs detalhados do processamento
+	-c "caminho do arquivo JSON de configuração" -> Pega as configurações do relatório

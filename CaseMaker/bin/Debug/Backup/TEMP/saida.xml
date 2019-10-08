@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<document>
+  <page>
+      <title>
+          7582-SELEÇÃO DE ORDEM DE COMPRA NA INCLUSÃO DO ITEM - Relatório de Testes
+      </title>
+      <informacoes>
+      </informacoes>
+      <text>\tDescrição\et
+Definição da mudança
+No Landix SFV é possível inserir, no cabeçalho do pedido, o “Número do pedido”. Esta informação diz respeito à Ordem de compra utilizado para controle interno do cliente do pedido. Atualmente um pedido pode ter apenas um “Número de pedido”(Ordem de compra) e caso o cliente exija mais de uma “Ordem de compra”, é necessário que o vendedor faça vários pedidos para o mesmo cliente de acordo com a quantidade de ordens de compra solicitadas e assim, o vendedor não consegue utilizar de forma eficiente o saldo flex, visto que, nos outros pedidos é possível usar apenas o saldo flex do cliente e não o saldo gerado no pedido (Saldo Flex por pedido e acumulativo); Além disso, com a nova regra de validação do Peso mínimo por tipo de veículo”, especificada no RRM 5370, o sistema fará validação do peso por pedido e o vendedor deverá incluir o máximo de peso possível em um único veículo. O objetivo desta mudança é que o vendedor possa incluir em um mesmo cabeçalho vários “Números de pedido”(Ordem de compra) e assim informar o número do pedido na inclusão do item. Com a mudança, após selecionar o cliente do pedido os seguintes passos deverão ser executados para inserir o “Números de pedido”(Ordem de compra) no item:
+1. O vendedor deverá acionar o botão (+), na tela “Cabeçalho do pedido” para inserir ordens de compra para o pedido.
+2. O vendedor deverá preencher os demais dados do cabeçalho do pedido e confirmar a abertura do pedido;
+3. O sistema exibirá todos os produtos disponíveis para negociação, conforme regras de negócio parametrizadas;
+4. O vendedor seleciona o(os) item(ns) para negociação e informa no combo Nro do pedido qual a ordem daquele produto.
+5. O vendedor insere todos os itens que deseja e fecha o pedido.
+|\center\tTestes - \uMudança\eu 7582 - Status: \uSucesso\eu - Analista Mariane e Rodrigo\et\ecenter
+\tBanco: \etBanco do cliente.
+\tPassos:\et
+- Rodar script de banco.
+- Verificar existência de parâmetro no middleware.
+- Verifiar criação dos campos no SSI.
+- Verificar criação dos campos no script de carga.
+- Verificar geração de carga.
+
+      </text>
+  </page>
+</document>

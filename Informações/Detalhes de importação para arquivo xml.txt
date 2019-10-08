@@ -1,0 +1,12 @@
+Configurações de arquivo xml:	
+Para gerar o relatório a partir do arquivo xml o arquivo de entrada deve ter a estrutura:
+	Tag "document" irá fazer abertura do documento;
+	Cada informação de texto será incluída na tag "page". Essa TAG irá incluir uma nova página, mas não significa que toda informação será apenas nessa página, pois as informações nessa tag irá criar quantas páginas forem necessárias;
+	Dentro de cada tag "page" existe opções de outras tags:
+		Tag "title" irá setar qual o título do relatório;
+		Tag "informacoes" irá apresentar qual serão as ionformações que ficaram ao lado do título, alinhado à direita;
+		Tag "text" irá colocar o texto do relatório;
+		Tag "table_lines" irá setar a quantas linhas será por página a tabulação do arquivo csv;
+		Tag "csv_file" irá receber qual o caminho do arquivo csv a ser tabulado no relatório;
+
+Seguindo a estrutura de arquivos xml deve-se fechar as tags e assim finaliza o arquivo. Vale ressaltar que dentro do arquivo xml deve-se colocar o arquivo csv que fará a tabulação.

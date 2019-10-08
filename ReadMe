@@ -1,0 +1,44 @@
+Sistema com o objetivo de gerar relatório tabulado
+
+Descrição da chamada por linha de comando:
+Para chamar o programa por linha de comando deve-se passar pelo menos dois parâmetros:
+	Entrada e o nome do arqivo de entrada (arquivo csv ou xml):
+		-i "caminho do arquivo de entrada"
+	Saída e caminho onde o arquivo de saída será salvo:
+		-o "caminho do arquivo de saída"
+
+Existe ainda as tags:
+	-l -> Gera logs detalhados do processamento
+	-c "caminho do arquivo JSON de configuração" -> Pega as configurações do relatório
+
+Detalhamento do arquivo de configuração JSON para cahamada do sistema por linha de comando:
+
+O Arquivo JSON deve ter as TAGS (não obrigatoriamente todas):
+	"AUTHOR"           -> Autor do relatório
+    "CRIACAO"     	   -> Data da criação do relatório
+    "CREATOR"          -> Aplicação que irá criar o relatório
+    "DATA_MODIFICACAO" -> Data de útlima modificação do relatório
+    "SUBJECT"          -> Assunto do relatório
+    "TITLE"            -> Título do Relatório
+    "KEYWORDS"         -> Palavras chaves do relatório
+	"LOG"			   -> Diretório do log
+	
+Configurações de arquivo xml:	
+Para gerar o relatório a partir do arquivo xml o arquivo de entrada deve ter a estrutura:
+	Tag "document" irá fazer abertura do documento;
+	Cada informação de texto será incluída na tag "page". Essa TAG irá incluir uma nova página, mas não significa que toda informação será apenas nessa página, pois as informações nessa tag irá criar quantas páginas forem necessárias;
+	Dentro de cada tag "page" existe opções de outras tags:
+		Tag "title" irá setar qual o título do relatório;
+		Tag "informacoes" irá apresentar qual serão as ionformações que ficaram ao lado do título, alinhado à direita;
+		Tag "text" irá colocar o texto do relatório;
+		Tag "table_lines" irá setar a quantas linhas será por página a tabulação do arquivo csv;
+		Tag "csv_file" irá receber qual o caminho do arquivo csv a ser tabulado no relatório;
+
+	Opções de texto na tag "text":
+		Nova página: '|';
+		Criação de tabela: '\\tabela' +  '\\tabelatitulos' + '\\linha' + '\\coluna' + nomeColuna + '\\ecoluna' + '\\elinha' + '\\etabelatitulos' + '\\tabelacorpo' + '\\linha' + '\\coluna' + informação + '\\ecoluna' + '\\elinha' + 'etabelacorpo' + 'etabela'
+		Texto em negrito: '\\t' + texto + '\\et'
+		Texto centralizado: '\\center' + texto + '\\ecenter'
+		Texto sublinhado: '\\u' + center + '\\eu'
+
+Seguindo a estrutura de arquivos xml deve-se fechar as tags e assim finaliza o arquivo. Vale ressaltar que dentro do arquivo xml deve-se colocar o arquivo csv que fará a tabulação.

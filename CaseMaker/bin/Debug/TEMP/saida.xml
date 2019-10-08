@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<document>
+  <page>
+      <title>
+          8182-Separação do núcleo G2
+      </title>
+      <informacoes>
+      </informacoes>
+      <text>Ticket aberto para registrar o tempo gasto individualizando o código fonte do núcleo G2 para cada produto que o utiliza.
+Com essa finalidade, devem ser verificados todos os projetos que utilizam o núcleo G2 copiando todos os arquivos que são utilizados e deixando de usar links.
+Esse trabalho deve ser realizado para os programas Landix Station, SSM e LdxMail.
+      </text>
+  </page>
+  <page>
+      <title>
+          8182 - Estimativa de testes
+      </title>
+      <informacoes>
+      </informacoes>
+      <text>\tabela\tabelacorpo\linha\coluna\tTarefa\et\ecoluna\coluna\tTempo\et\ecoluna\elinha\linha\colunaLer RRM\ecoluna\coluna00:10:00\ecoluna\elinha\linha\colunaPreparação do banco\ecoluna\coluna00:10:00\ecoluna\elinha\linha\colunaCriar roteiro\ecoluna\coluna00:10:00\ecoluna\elinha\linha\colunaInstalar versão\ecoluna\coluna00:30:00\ecoluna\elinha\linha\colunaSSI banco de dados\ecoluna\coluna00:00:00\ecoluna\elinha\linha\colunaSSI Carga\ecoluna\coluna00:00:00\ecoluna\elinha\linha\colunaImportação, Exportação\ecoluna\coluna00:00:00\ecoluna\elinha\linha\colunaSSU - Station\ecoluna\coluna00:00:00\ecoluna\elinha\linha\colunaSSI - LdxProc\ecoluna\coluna00:00:00\ecoluna\elinha\linha\colunaSSI - MW\ecoluna\coluna00:00:00\ecoluna\elinha\linha\colunaSSM - AND\ecoluna\coluna00:08:00\ecoluna\elinha\linha\colunaSSM - WIN\ecoluna\coluna00:08:00\ecoluna\elinha\linha\colunaImpactos negativos\ecoluna\coluna00:00:00\ecoluna\elinha\linha\colunaTotal\ecoluna\coluna01:16:00\ecoluna\elinha\etabelacorpo\etabela
+      </text>
+  </page>
+  <page>
+      <title>
+          Cenário 1      </title>
+      <informacoes>
+      </informacoes>
+      <text>\center\tTestes - \uMudança\eu 8182 - Status: \uSucesso\eu - Analista Rodrigo\et\ecenter
+\tBanco:\etSFV_RAMADA_DSV.
+\tPassos:\et
+Verificar telas verificando se possuem algum erro:
+Windows:
+<b>Tela aguarde</b> (chamada em atualização de clientes; cadastro de clientes; importação TXT em pedidos; gerar relatório de positivação de clientes; geração do relatório de títulos para exportação csv; geração de relatório de pedidos e notas fiscais para exportação csv);
+<b>Tela de atalhos</b> (chamado na tela principal na opção "Atalhos" na tela principal do sistema);
+<b>Tela de atualização</b> (chamado na tela principal quando se vai atualizar o sistema);
+<b>Tela de atualização de imagens</b> (chamado na solicitação de atualização de imagens do sistema);
+<b>Tela de configuração de backup</b> (chamado na tela principal a partir de oção no tree view da tela);
+<b>Tela de carga do sistema</b> (chamado na busca de carga e ao efetuar descarga);
+<b>Tela de catálogo do sistema</b> (chamado na tela de pedidos na opção "Catálogo");
+<b>Tela de legenda do catálogo</b> (chamado na tela do catálogo);
+<b>Tela de negociação do item no catálogo</b> (chamado na tela de catálogo);
+<b>Tela de configuração de conexão</b> (chamado na tela principal do sistema);
+<b>Tela de confirmação de senha no fechamento do catálogo</b> (chamado no fechamamento do catálogo)
+<b>Tela de descarga</b> (chamado quando o sistema efetua descarga);
+<b>Tela de transmissão</b> (chamado em transferência de dados pela rede);
+<b>Tela que plota HTML</b> (chamado no clique do botão de mural de informações; chamado ao montar o resumo do pedido);
+<b>Tela de legenda de cores do retorno</b> (chamado no clique da opção de legenda de cores do retorno);
+<b>Tela de localização do sistema</b> (tela acionada no botão localizar cliente na tela de clientes);
+<b>Tela de anexo de arquivos</b> (tela acionada na opção anexar no módulo de mensagem);
+<b>Tela de mensagens do sistema</b> (tela chamada na opção mensagens da tela principal);
+<b>Tela de digitação de nova mensagem</b> (Tela chamada a partir da tela de mensagens do sistema);
+<b>Tela de seleção "Para" em mensagens</b> (Tela chamada na opção "Para" em mensagens);
+<b>Tela sobre em mensagens</b> (Tela chamada na opção "Sobre" em mensagens);
+<b>Tela de visualização da mensagem</b> (Tela chamada quando se abre uma mensagem para verificar sua informação);
+<b>Tela principal de retorno</b> (Tela de retornos de sistema);
+<b>Tela que informa erro de retorno</b> (Tela chamada quando há erro no retorno do sistema);
+<b>Tela de resumo do retorno</b> (Tela chamada a partir da tela de retorno);
+<b>Tela de configuração da rota inicial do sistema</b> (Tela chamada ao iniciar o sistema pela primeira vez);
+<b>Tela sobre do sistema</b> (Tela chamada a partir da tela principal do sistema);
+<b>Tela de visualização de imagem</b> (Tela chamada quando se vai abrir uma imagem);.
+
+      </text>
+  </page>
+</document>

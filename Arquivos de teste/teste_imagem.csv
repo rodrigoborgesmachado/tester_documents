@@ -1,0 +1,396 @@
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_AtualizarRetorno.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_AtualizarRetorno.png" width="90%" height="90%"><br>
+<br>Tela de atualização de retornos - nada de diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Backup.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Backup.png" width="90%" height="90%"><br>
+<br>Tela de configuração do diretório de backup - nada de diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_BuscaGenerica.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_BuscaGenerica.png" width="90%" height="90%"><br>
+<br>Tela de busca genérica, há uma diferença no campo de busca devido ao tamanho da fonte. Versão anterior não apresenta esse problema.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Carga.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Carga.png" width="90%" height="90%"><br>
+<br>Tela de download de carga - nada de diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Conexao.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Conexao.png" width="90%" height="90%"><br>
+<br>Tela de configuração de conexão, alterado o tamanho dos campos de entrada, estão maiores do que a versão anterior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Descarga.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Descarga.png" width="90%" height="90%"><br>
+<br>Tela de descarga - nada de diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_LocalizacaoGPS.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_LocalizacaoGPS.png" width="90%" height="90%"><br>
+<br>Tela de busca de localização do gps - nada de diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_HTML.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_HTML.png" width="90%" height="90%"><br>
+<br>Tela que plota HTML - nada de diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Inicializacao.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Inicializacao.png" width="90%" height="90%"><br>
+<br>Tela de inicialização do sistema - nada de diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Logon.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Logon.png" width="90%" height="90%"><br>
+<br>Tela de Login, os campos de digitação estão com os valores maiores do que da versão anterior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_ManterAudioVideo menu file.png" width="90%" height="90%"><br>;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_ManterAudioVideo menu file.png" width="90%" height="90%"><br>
+Tela de seleção de arquivo de mídia no momento de seleção do menu de opções, nenhum problema, devido à atualização do sdk o menu de seleção apresentado tem um layout mais adequado.;Há um erro no momento de plotagem do menu, problema já corrigido em versões superiores do sistema.
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_ManterAudioVideo.png" width="90%" height="90%"><br>;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_ManterAudioVideo.png" width="90%" height="90%"><br>
+Tela genérica que apresenta arquivos de mídia, única alteração é na coloração da mensagem <i>"Nenhum anexo"</i>.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Manutencao.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Manutencao.png" width="90%" height="90%"><br>
+<br>Tela de manutenção do sistema, os botões estão consideravelmente maiores o que deixa a tela com uma impressão ruim, uma vez que um botão parece conectado ao outro.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Mensagem Menu.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Mensagem Menu.png" width="90%" height="90%"><br>
+<br>Tela de mensagens com o menu selecionado. Na nova versão quando apresentado o menu é apresentado também um menu inferior que está errado, com um fundo preto, necessário alteração.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Mensagem.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Mensagem.png" width="90%" height="90%"><br>
+<br>Tela de mensagens, está sendo apresentado de maneira incorreta uma vez que não é apresentado em qual aba está: <i>Entrada</i> ou <i>Saída</i>.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_MensagemPara.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_MensagemPara.png" width="90%" height="90%"><br>
+<br>Tela de seleção dos contatos de destinatário da mensagem.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_MensagemSobre.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_MensagemSobre.png" width="90%" height="90%"><br>
+<br>Tela para seleção do assunto da mensagem, única alteração é no campo de busca, o qual está com o tamanho maior do que na versão anterior devido ao tamanho maior da fonte.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_MensagemVisualizar file.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_MensagemVisualizar file.png" width="90%" height="90%"><br>
+<br>Tela principal da mensagem com os campos preenchidos, inclusive anexo, na nova versão é nítido a diferença do tamanho da fonte, o que deixa os componentes um pouco maiores. Há ainda o problema com os botões sobrepondo um ao outro.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_MensagemVisualizar texto.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_MensagemVisualizar texto.png" width="90%" height="90%"><br>
+<br>Tela principal da mensagem com os campos preenchidos na nova versão é nítido a diferença do tamanho da fonte, o que deixa os componentes um pouco maiores.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_MensagemVisualizar.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_MensagemVisualizar.png" width="90%" height="90%"><br>
+<br>Tela de visualização de mensagens, nessa versão o botão sobre está com problema em sua apresentação devido ao tamanho da fonte de sua descrição.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_PosicionamentoMapa.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_PosicionamentoMapa.png" width="90%" height="90%"><br>
+<br>Tela que plota o mapa de posicionamento, não havia dados para simulação da plotagem, então há apenas o texto que não há dados.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_ReenviarDescarga.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_ReenviarDescarga.png" width="90%" height="90%"><br>
+<br>Tela que apresenta as últimas descargas feitas possibilitando a seleção para o reenvio de alguma. Há alteração no componente de seleção, a nova versão apresenta uma imagem mais limpa e agradável e a fonte manteve o tamanho (sugiro que seja menor).;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Retorno Filtro.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Retorno Filtro.png" width="90%" height="90%"><br> 
+<br>Tela que apresenta o filtro para os retornos do período, os botões que apresentam os textos com as datas possuem um texto maior, resultando na sobreposição dos botões.;<br>O filtro de datas não está na coloração definida
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Retorno item descricao.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Retorno item descricao.png" width="90%" height="90%"><br>
+<br>Tela que apresenta as informações do item a partir do retorno - nada de diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Retorno item.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Retorno item.png" width="90%" height="90%"><br>
+<br>Tela que apresenta os itens do retorno, apenas o campo para filtrar que está com a fonte maior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Retorno.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Retorno.png" width="90%" height="90%"><br>
+<br>Tela de retorno. Tanto o filtro está com a fonte maior em comparação à versão anterior, quanto a coloração do campo de busca está diferente (está melhor na nova versão).;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_RetornoTotalizacoes.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_RetornoTotalizacoes.png" width="90%" height="90%"><br>
+<br>Tela que apresenta os retornos. Os botões das datas estão se sobrepondo na nova versão devido ao tamanho da fonte.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_Sobre.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_Sobre.png" width="90%" height="90%"><br>
+<br>Tela que apresenta as informações de versão do sistema. Tanto na nova versão quanto na anterior é dificil de visualizar os dados.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_RotaInicial.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_RotaInicial.png" width="90%" height="90%"><br>
+<br>Tela de configuração da rota inicial, na nova versão está com os componentes maiores devido ao tamanho da fonte.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_SelecionarArquivo.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_SelecionarArquivo.png" width="90%" height="90%"><br>
+<br>Tela de seleção de arquivo. Única diferença se encontra na coloração.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\ACN_VisualizarImagens.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\ACN_VisualizarImagens.png" width="90%" height="90%"><br>
+<br>Tela genérica para apresentação da imagem selecionada - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_AdministracaoVenda.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_AdministracaoVenda.png" width="90%" height="90%"><br>
+<br>Tela de administração de venda - nada de diferença.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_BuscaClientes.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_BuscaClientes.png" width="90%" height="90%"><br>
+<br>Tela de busca de clientes. Está alterado os componentes de seleção, uma vez que o combo é alterado o modelo.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_BuscaProdutos.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_BuscaProdutos.png" width="90%" height="90%"><br>
+<br>Tela de busca de produtos. Está diferente nos campos de descrição de dados, pois estão com a fonte maior, e os botões estão se sobrepondo, além do combo de seleção estar com um modelo diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_BuscarFabricanteProduto.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_BuscarFabricanteProduto.png" width="90%" height="90%"><br>
+<br>Tela de busca por fabricante do produto. Está com os botões se sobrepondo devido ao tamanho da fonte.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_BuscaRelStatusPedidos.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_BuscaRelStatusPedidos.png" width="90%" height="90%"><br>
+<br>Tela de busca dos status dos pedidos. Os botões estão sobrepondo uns aos outros devido a fonte estar maior e o botão <i>"Busca por data"</i> está num formato diferente (mais atrataivo).;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_BuscarSimilares listagem.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_BuscarSimilares listagem.png" width="90%" height="90%"><br>
+<br>Tela de busca de similares fazendo filtragem a partir de uma key word. Única diferença está no tamanho da fonte.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_BuscaSimilares.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_BuscarSimilares.png" width="90%" height="90%"><br>
+<br>Tela de busca de similar. Única diferença está no tamanho da fonte.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_CadastroCliente anexo.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_CadastroCliente anexo.png" width="90%" height="90%"><br>
+<br>Tela de cadastro de cliente na aba <i>Anexos</i>, diferença está no tamanho da fonte e na coloração do texto.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_CadastroCliente contato.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_CadastroCliente contato.png" width="90%" height="90%"><br>
+<br>Tela de cadastro de cliente na aba <i>Contato</i>, diferença está no tamanho da fonte e na coloração do texto.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_CadastroCliente endereco.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_CadastroCliente endereco.png" width="90%" height="90%"><br>
+<br>Tela de cadastro de cliente na aba <i>Endereço</i>, diferença está no tamanho da fonte e na coloração do texto.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_CadastroCliente outras informacoes.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_CadastroCliente outras informacoes.png" width="90%" height="90%"><br>
+<br>Tela de cadastro de cliente na aba <i>Outras Informações</i>, diferença está no tamanho da fonte e na coloração do texto além da coloração do campo de seleção <i>Bloqueado</i>.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_CadastroCliente.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_CadastroCliente.png" width="90%" height="90%"><br>
+<br>Tela de cadastro de cliente, diferença está no tamanho da fonte, na coloração do texto, nos componentes de seleção de combo e as abas estão com as descrições em maiúsculo.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_CadastroClienteEndereco.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_CadastroClienteEndereco.png" width="90%" height="90%"><br>
+<br>Tela de cadastro de endereço no final do pedido, diferença no tamanho das fontes e no layout do componente do combo.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_CadastroContato data.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_CadastroContato data.png" width="90%" height="90%"><br>
+<br>Tela de cadastro de contado na seleção de datas. O campo de data, assim como em todos outros campos de datas, está apresentando de uma forma diferente e não apresenta a opção de confirmar a seleção.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_CadastroContato geral.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_CadastroContato geral.png" width="90%" height="90%"><br>
+<br>Tela de cadastro de contatos na aba geral. Apenas tamanho da fonte e layout do componente de combo estão diferentes.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_CadastroHistoricoEventos.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_CadastroHistoricoEventos.png" width="90%" height="90%"><br>
+<br>Tela de cadastro de eventos do usuário. Os combos estão com layout diferente na nova versão além de um tamanho maior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_Clientes filtro.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_Clientes filtro.png" width="90%" height="90%"><br>
+<br>Tela de clientes com o filtro selecionado, apenas o tamanho da fonte de busca está maior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_Clientes menu.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_Clientes menu.png" width="90%" height="90%"><br>
+<br>Tela de clientes com o menu selecionado. Na nova versão o menu está tomando um espaço consideravelmente menor do que na versão anterior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_Clientes.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_Clientes.png" width="90%" height="90%"><br>
+<br>Tela de listagem de clientes, nada de diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_CopiarPedidos itens informacoes.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_CopiarPedidos itens informacoes.png" width="90%" height="90%"><br>
+<br>Tela de copiar pedidos apresentando a descrição dos itens, nenhuma diferença.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_CopiarPedidos Itens.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_CopiarPedidos Itens.png" width="90%" height="90%"><br>
+<br>Tela de itens para copiar pedido, o botão de listagem dos itens está sobrepondo a parte superior da tela.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_CopiarPedidos.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_CopiarPedidos.png" width="90%" height="90%"><br>
+<br>Tela de listagem de pedidos. O botão para listagem dos itens do pedido está sendo apresentado com uma fonte muito grande deixando o botão estranho.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_DescontoComissaoVendedor.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_DescontoComissaoVendedor.png" width="90%" height="90%"><br>
+<br>Tela de desconto de comissão do vendedor. Apenas os tamanhos da fonte das informções estão com o tamanho alterados deixando os componentes um pouco maiores.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_DescontoPePedidos.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_DescontoPePedidos.png" width="90%" height="90%"><br>
+<br>Tela de desconto de pé do pedido. Apenas os tamanhos da fonte das informções estão com o tamanho alterados deixando os componentes um pouco maiores.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_DetalhesProdutoMD1 estoque.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_DetalhesProdutoMD1 estoque.png" width="90%" height="90%"><br>
+<br>Tela de descrição dos detalhesdo produto aba <i>Estoque</i> - nenhuma diferença.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_DetalhesProdutoMD1 venda.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_DetalhesProdutoMD1 venda.png" width="90%" height="90%"><br>
+<br>Tela de descrição dos detalhesdo produto aba <i>Venda</i> - nenhuma diferença.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_DetalhesProdutoMD1 vendas anteriores.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_DetalhesProdutoMD1 vendas anteriores.png" width="90%" height="90%"><br>
+<br>Tela de descrição dos detalhesdo produto aba <i>Vendas Anteriores</i> - nenhuma diferença.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_DetalhesProdutoMD1.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_DetalhesProdutoMD1.png" width="90%" height="90%"><br>
+<br>Tela de descrição dos detalhesdo produto aba. As abas estão em letra maiúscula.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_DiasVisita.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_DiasVisita.png" width="90%" height="90%"><br>
+<br>Tela que apresenta os dias de visita do cliente. Os componentes estão maiores devido ao tamanho da fonte e o combo de seleção do vendedor está com um novo layout.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_EmailPedido.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_EmailPedido.png" width="90%" height="90%"><br>
+<br>Tela de inclusão do e-mail para enviar o resumo do pedido. Apenas o campo de descrição do e-mail está maior fazendo com que os outros componentes ocupem mais espaço.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_Home.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_Home.png" width="90%" height="90%"><br>
+<br>Tela de menu principal com as opções - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_LegendaCores.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_LegendaCores.png" width="90%" height="90%"><br>
+<br>Tela que apresenta as legendas de cores cadastradas - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_LevantamentoEstoque filtro.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_LevantamentoEstoque filtro.png" width="90%" height="90%"><br>
+<br>Tela de levantamento de estoque com o filtro. A descrição está com uma fonte maior e a listagem está deixando um componente em branco na tela.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_LevantamentoEstoque.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_LevantamentoEstoque.png" width="90%" height="90%"><br>
+<br>Tela de levantamento de estoque do produto, está apenas com o componente de texto com a fonte maior e o combo está com novo layout.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_LevantamentoEstoqueItem.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_LevantamentoEstoqueItem.png" width="90%" height="90%"><br>
+<br>Tela de lenvantamento de estoque do item. Está apenas com o campo de quantidade com a fonte maior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_ListaContato.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_ListaContato.png" width="90%" height="90%"><br>
+<br>Tela de listagem de contatos - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_ListaContatos lista.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_ListaContatos lista.png" width="90%" height="90%"><br>
+<br>Tela de listagem de contatos com listagem - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_ListaHistoricoEventosCliente data.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_ListaHistoricoEventosCliente data.png" width="90%" height="90%"><br>
+<br>Tela de histórico de eventos do cliente filtrando pela data. Mais uma vez o componente de data está diferente e não apresenta a opção de confirmação da data.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_ListaHistoricoEventosCliente.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_ListaHistoricoEventosCliente.png" width="90%" height="90%"><br>
+<br>Tela de listagem de histórico de eventos de clientes. Apenas os botões estão sobrepondo os demais e o componente de combo está com um layout diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_MotivoNaoVenda text.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_MotivoNaoVenda text.png" width="90%" height="90%"><br>
+<br>Tela de seleção do motivo de venda, apenas a cor da opção do tipo de motivo de não venda e o tamanho da fonte da observação que estão distintos entre as versões.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_MotivoNaoVenda.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_MotivoNaoVenda.png" width="90%" height="90%"><br>
+<br>Tela de seleção do motivo de venda sem opções - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_PAC.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_PAC.png" width="90%" height="90%"><br>
+<br>Tela de atendimento ao cliente - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_PedidoCabecalhoMD1 credito.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_PedidoCabecalhoMD1 credito.png" width="90%" height="90%"><br>
+<br>Tela de cabeçalho do pedido na aba <i>Crédito</i> - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_PedidoCabecalhoMD1 observacoes.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_PedidoCabecalhoMD1 observacoes.png" width="90%" height="90%"><br>
+<br>Tela de cabeçalho do pedido na aba <i>Observações</i> - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_PedidoCabecalhoMD1.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_PedidoCabecalhoMD1.png" width="90%" height="90%"><br>
+<br>Tela de cabeçalho do pedido. Apenas as abas que estão em letra maiúscula.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_PedidoItemMD1.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_PedidoItemMD1.png" width="90%" height="90%"><br>
+<br>Tela de negociação do item, apenas os componentes de texto estão com uma fonte maior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_PedidoMD1 filtro.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_PedidoMD1 filtro.png" width="90%" height="90%"><br>
+<br>Tela de itens, apenas o filtro que está numa fonte maior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_PedidoMD1 menu errado.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_PedidoMD1 menu errado.png" width="90%" height="90%"><br>
+<br>Tela de itens com o menu apresenteado. Na nova versão o menu está com um fundo preto.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_PedidoMD1 menu.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_PedidoMD1 menu.png" width="90%" height="90%"><br>
+<br>Tela de itens com o menu lateral, na nova versão está incorreto.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_PedidoMD1.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_PedidoMD1.png" width="90%" height="90%"><br>
+<br>Tela de listagem dos itens. Apenas o componente de filtragem está com a fonte maior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_PesquisaPreco.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_PesquisaPreco.png" width="90%" height="90%"><br>
+<br>Tela de pesquisa de preço, há diferença apenas com o layout do combo de seleção de grupo de produtos e a fonte está maior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_Relatorio.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_Relatorio.png" width="90%" height="90%"><br>
+<br>Tela de relatórios, apenas a cor das labels estão diferentes na nova versão.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelAlteracoesProdutos.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelAlteracoesProdutos.png" width="90%" height="90%"><br>
+<br>Tela de relatório de alterações nos produtos - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelCampanha.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelCampanha.png" width="90%" height="90%"><br>
+<br>Tela de relatório de campanhas. Apenas o combo de seleção do vendedor está com o layout diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelCampanhasMensais.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelCampanhasMensais.png" width="90%" height="90%"><br>
+<br>Tela de relatório de campanhas mensais. Está diferente apenas o combo de seleção.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelCortes.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelCortes.png" width="90%" height="90%"><br>
+<br>Tela de relatório de cortes - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelCortesFiltro data picker.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelCortesFiltro data picker.png" width="90%" height="90%"><br>
+<br>Tela de relatório de cortes com a data selecionada. Mais uma vez o data picker está sem a opção de confirmação da data.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelCortesFiltro.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelCortesFiltro.png" width="90%" height="90%"><br>
+<br>Tela de relatório de cortes, apenas o combo de vendedores está com o layout diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelCotaPesoFamilia.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelCotaPesoFamilia.png" width="90%" height="90%"><br>
+<br>Tela de relatório de cota por peso de família, única diferença está no layout dos combos de seleção.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelDebitoCredito data picker.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelDebitoCredito data picker.png" width="90%" height="90%"><br>
+<br>Tela de relatório de débito e crédito com a data selecionada. Mais uma vez na nova versão não tem a opção de confirmar a data selecionada.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelDebitoCredito data.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelDebitoCredito data.png" width="90%" height="90%"><br>
+<br>Tela de relatório de débito e crédito com a data selecionada. Mais uma vez na nova versão não tem a opção de confirmar a data selecionada.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelDebitoCredito.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelDebitoCredito.png" width="90%" height="90%"><br>
+<br>Tela de relatório de débito e crédito, apenas o botão de datas está sobreponto um ao outro na nova versão por causa do tamanho da fonte.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelDemonstrativoPagamento data.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelDemonstrativoPagamento data.png" width="90%" height="90%"><br>
+<br>Tela de relatório de demonstrativo de pagamento com a seleção de data, mais uma vez a data não possui opção de confirmar a seleção da data.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelDemonstrativoPagamento.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelDemonstrativoPagamento.png" width="90%" height="90%"><br>
+<br>Tela de relatório de demonstrativo de pagamento, apenas o botão de data que está sobrepondo um ao outro.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelDesempenhoVisita data.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelDesempenhoVisita data.png" width="90%" height="90%"><br>
+<br>Tela de relatório de desempenho de visita com a seleção de data, mais uma vez a data não possui opção de confirmar a seleção da data.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelDesempenhoVisitas.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelDesempenhoVisitas.png" width="90%" height="90%"><br>
+<br>Tela de relatório de desempenho de visita, apenas o botão de data que está sobrepondo um ao outro.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelDevelucoes data picker.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelDevelucoes data picker.png" width="90%" height="90%"><br>
+<br>Tela de relatório de devoluções com a seleção de data, mais uma vez a data não possui opção de confirmar a seleção da data.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelDevolucoes.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelDevolucoes.png" width="90%" height="90%"><br>
+<br>Tela de relatório de devoluções, apenas o botão de data que está sobrepondo um ao outro.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelMetasFaturamento data.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelMetasFaturamento data.png" width="90%" height="90%"><br>
+<br>Tela de relatório de metas de faturamento com a seleção de data, mais uma vez a data não possui opção de confirmar a seleção da data.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelMetasFaturamento.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelMetasFaturamento.png" width="90%" height="90%"><br>
+<br>Tela de relatório de meta de faturamento, apenas o botão de data que está sobrepondo um ao outro.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelMetasGrupo.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelMetasGrupo.png" width="90%" height="90%"><br>
+<br>Tela de relatório de meta por grupo, apenas os combos que estão com layouts diferentes na nova versão.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelMetasProduto.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelMetasProduto.png" width="90%" height="90%"><br>
+<br>Tela de relatório de meta por produto, apenas os combos que estão com layouts diferentes na nova versão.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelMotivoNaoVenda.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelMotivoNaoVenda.png" width="90%" height="90%"><br>
+<br>Tela de relatório de motivos de não venda, apenas os combos que estão com layouts diferentes na nova versão e os botões de datas estão sobrepondo um ao outro.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelMotivosNaoVenda data.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelMotivosNaoVenda data.png" width="90%" height="90%"><br>
+<br>Tela de relatório de meta por grupo, o combo de data não possui a opção de confirmação da data selecionada.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelObjetivosVendedor.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelObjetivosVendedor.png" width="90%" height="90%"><br>
+<br>Tela de relatório de objetivos do vendedor - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelPositivacao data.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelPositivacao data.png" width="90%" height="90%"><br>
+<br>Tela de relatório de positivacao de produtos selecionando a data.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelPositivacao.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelPositivacao.png" width="90%" height="90%"><br>
+<br>Tela de relatório de positivação de produtos, está com o combo de vendedor com o layout diferente e com os botões referente às datas sobrepondo um ao outro.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelPositivacaoGrafico barras.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelPositivacaoGrafico barras.png" width="90%" height="90%"><br>
+<br>Tela do gráfico em barras do relatório de positivação de produtos - nada de diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelPositivacaoGrafico.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelPositivacaoGrafico.png" width="90%" height="90%"><br>
+<br>Tela do gráfico em pizza do relatório de positivação de produtos - nada de diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelResultadoCampanha.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelResultadoCampanha.png" width="90%" height="90%"><br>
+<br>Tela de relatório de resultado de campanha, está com o layout do combo atualizado.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelSinteseVendas.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelSinteseVendas.png" width="90%" height="90%"><br>
+<br>Tela de relatório de síntese de vendas, apenas os combos de seleção está com o layout diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelStatusPedidos.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelStatusPedidos.png" width="90%" height="90%"><br>
+<br>Tela de relatório de status de pedidos. Apenas o campo de busca que está com a fonte maior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelStatusPedidos itens.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelStatusPedidos itens.png" width="90%" height="90%"><br>
+<br>Tela de relatório de status de pedidos com a listagem dos itens - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelStatusPedidos itens descricao.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelStatusPedidos itens descricao.png" width="90%" height="90%"><br>
+<br>Tela de relatório de status de pedidos com a listagem dos itens e sua descrição - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelTitulosFaturarFaturados.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelTitulosFaturarFaturados.png" width="90%" height="90%"><br>
+<br>Tela de relatório de carteira de títulos. Tanto os combos quanto os botões de data estão diferentes da versão anterior.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelTitulosFaturarFaturados data.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelTitulosFaturarFaturados data.png" width="90%" height="90%"><br>
+<br>Tela de relatório de carteira de título seleção de datas, novamente não há a opção de confirmar a data selecionada.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelTop10.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelTop10.png" width="90%" height="90%"><br>
+<br>Tela de relatório do gráfico de top 10 - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelTop10Filtro data.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelTop10Filtro data.png" width="90%" height="90%"><br>
+<br>Tela de relatório do gráfico de top 10 selecionando a data, novamente não há a opção de confirmar a data selecionada.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelTop10Filtro.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelTop10Filtro.png" width="90%" height="90%"><br>
+<br>Tela de filtro do relatório de top 10, apenas os combos estão diferente e os botões de data estão sobrepondo um ao outro devido ao tamanho da fonte.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelTransmissoes data.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelTransmissoes data.png" width="90%" height="90%"><br>
+<br>Tela de relatório de transmissões com a data selecionada, novamente não há a opção de confirmar a data selecionada.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelTransmissoes.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelTransmissoes.png" width="90%" height="90%"><br>
+<br>Tela de relatório de transmissões, o combo está com um layout diferente e o botão de data está sobrepondo um ao outro.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelVendasDevelucoesFaturadas.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelVendasDevelucoesFaturadas.png" width="90%" height="90%"><br>
+<br>Tela de relatório de vendas e devoluções, o combo está com um layout diferente e o botão de data está sobrepondo um ao outro.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_RelVendasDevolucoesFaturadas data picker.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_RelVendasDevolucoesFaturadas data picker.png" width="90%" height="90%"><br>
+<br>Tela de relatório de vendas e devoluções com a data selecionada, novamente não há a opção de confirmar a data selecionada.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_SituacaoCliente titulos.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_SituacaoCliente titulos.png" width="90%" height="90%"><br>
+<br>Tela que apresenta a situação do cliente na aba <i>Títulos</i>. Por a fonte está maior os componentes estão ocupando maior espaço.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_SituacaoCliente credito.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_SituacaoCliente credito.png" width="90%" height="90%"><br>
+<br>Tela que apresenta a situação do cliente na aba <i>Crédito</i> - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_SituacaoCliente devolucoes.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_SituacaoCliente devolucoes.png" width="90%" height="90%"><br>
+<br>Tela que apresenta a situação do cliente na aba <i>Devolucoes</i> - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_SituacaoCliente pedidos a faturar.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_SituacaoCliente pedidos a faturar.png" width="90%" height="90%"><br>
+<br>Tela que apresenta a situação do cliente na aba <i>Pedidos a Faturar</i>, o botão para listagem dos itens está maior na nova versão devido ao tamanho da fonte.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_SituacaoCliente pedidos faturar itens.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_SituacaoCliente pedidos faturar itens.png" width="90%" height="90%"><br>
+<br>Tela de listagem dos itens dos pedidos a faturar na tela de situação do cliente - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_SituacaoCliente pedidos faturados.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_SituacaoCliente pedidos faturados.png" width="90%" height="90%"><br>
+<br>Tela que apresenta a situação do cliente na aba <i>Pedidos Faturados</i> - nada diferente.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\AC_SituacaoCliente.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\AC_SituacaoCliente.png" width="90%" height="90%"><br>
+<br>Tela de situação de clientes, única diferença são as abas que estão em letra maiúscula.;
+<br>Versão 7.0;<br>Versão 4.0
+<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints nova versão\DIN_Base.png" width="90%" height="90%">;<img src="C:\Users\Landix\Desktop\Análise - Atualização API\Prints antiga versão\DIN_Base.png" width="90%" height="90%"><br>
+<br>Tela para nomear o arquivo selecionado para ser salvo. O menu está sendo apresentado no superior da tela.;

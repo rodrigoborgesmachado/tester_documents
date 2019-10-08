@@ -1,0 +1,10 @@
+Detalhamento do arquivo de configuração JSON para cahamada do sistema por linha de comando:
+
+O Arquivo JSON deve ter as TAGS (não obrigatoriamente todas):
+	"AUTHOR"           -> Autor do relatório
+    "DATA_CRIACAO"     -> Data da criação do relatório
+    "CREATOR"          -> Aplicação que irá criar o relatório
+    "DATA_MODIFICACAO" -> Data de útlima modificação do relatório
+    "SUBJECT"          -> Assunto do relatório
+    "TITLE"            -> Título do Relatório
+    "KEYWORDS"         -> Palavras chaves do relatório

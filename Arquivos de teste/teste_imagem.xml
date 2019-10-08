@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<document>
+	<page>
+		<title>Atualização sdk android</title>
+		<informacoes>Landix Sistemas 2019</informacoes>
+		<text>	A atualização do sdk do android para o produto Flex se vê necessária após a identificaçãp da mensagem: "This app was built for an older version of Android and may not workproperly. Try checking for updates, or contact the developer". Uma que ocorre essa mensagem quando gerado um apk em uma versão antiga do sdk, e o instalando em android mais atualizado, como 8.0 e 9.0. Como já foi testado a compilação do projeto em versões mais atualizadas, cujo mensagem citada para de ser apresentada, esse relatório irá apresentar as diferenças entre o apk gerado na versão 7.0 (à esquerda) e a versão 4.0 já utilizada no sitema, quando instalado em um Android 9.
+			De modo geral, há alguns problemas que estarão em outros projetos também, problemas esses descritos no decorrer no relatório. Em sua grande parte, esses problemas são devido ao (1)tamaho da fonte, o qual ficou maior na nova versão; (2) menu de opções em algumas telas, o qual está sendo apresentado com um fundo negro deixando o layout feio; (3) e um bug que se encontra nas duas versões: quando se clica em um campo para digitar o texto é apresentado o teclado para a digitação, e a medida que se vai digitando o texto no combo é alterado o valor do campo. O problema consta em telefones de versão de Android mais novos, os quais os campos não estão sendo atualizados se o mesmo estiver atrás do teclado no momento do clique, então não é possível identificar o texto sendo digitado.
+			Para os testes foi utilizado o telefone Moto G6 atualizado na versão 9 do Android. Foi utilizado a versão 04.51.00 do Flex para a simulação. A seguir segue os prints de ambas as versões, à direita está na versão do sdk 4.0 e à esquerda está na versão do sdk 7.0.
+		</text>
+		<table_lines>1</table_lines>
+		<csv_file>C:\Users\Landix\Desktop\teste1.csv</csv_file>
+	</page>
+	<page>
+		<title>Atualização sdk android</title>
+		<informacoes>Landix Sistemas 2019</informacoes>
+		<table_lines>3</table_lines>
+		<csv_file>C:\Users\Landix\Desktop\teste_imagem.csv</csv_file>
+	</page>
+</document>

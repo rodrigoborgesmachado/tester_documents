@@ -1,0 +1,155 @@
+29/08/2019 08:13:12- SIMPLES -Abrindo conexão. Banco: C:\Program Files (x86)\CaseMaker\BASE\pckdb.db3
+29/08/2019 08:13:12- SIMPLES ---------------------------------------Iniciando sistema
+29/08/2019 08:13:12- DETALHADO -MD_Status.MD_Status()
+29/08/2019 08:13:12- DETALHADO -MD_Status.InserirPrincipais()
+29/08/2019 08:13:12- DETALHADO -MD_Status.MD_Status()
+29/08/2019 08:13:12- DETALHADO -MD_Status.Load()
+29/08/2019 08:13:12- DETALHADO -MD_Project.MD_Project()
+29/08/2019 08:13:12- DETALHADO -MD_Project.MD_Project(codigo)
+29/08/2019 08:13:12- DETALHADO -MD_Project.Load()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.Load()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Cenario.MD_Cenario()
+29/08/2019 08:13:12- DETALHADO -MD_Cenario.Load()
+29/08/2019 08:13:12- DETALHADO -MD_Anexos.MD_Anexos()
+29/08/2019 08:13:12- DETALHADO -MD_Anexos.MD_Anexos(int codigo, MD_Cenario cenario)
+29/08/2019 08:13:12- DETALHADO -MD_Anexos.Load()
+29/08/2019 08:13:12- SIMPLES -Problem on the sentence. Sentence:  SELECT CODIGOANEXO, CODIGOCEN, TAREFA, NOMEFILE, DESCRICAOANEX FROM MAKANEXOS WHERE CODIGOANEXO = 0 AND CODIGOCEN 0 AND TAREFA = 0. Erro: SQL logic error
+near "0": syntax error
+29/08/2019 08:13:12- DETALHADO -MD_Status.InserirPrincipais()
+29/08/2019 08:13:12- DETALHADO -FO_Principal.FO_Principal()
+29/08/2019 08:13:12- DETALHADO -FO_Principal.IniciaForm()
+29/08/2019 08:13:12- DETALHADO -FO_Principal.CarregaTreeView()
+29/08/2019 08:13:12- DETALHADO -MD_Project.MD_Project()
+29/08/2019 08:13:12- DETALHADO -MD_Project.MD_Project(codigo)
+29/08/2019 08:13:12- DETALHADO -MD_Project.Load()
+29/08/2019 08:13:12- DETALHADO -MD_Project.RetornaTodosProjetos()
+29/08/2019 08:13:12- DETALHADO -MD_Project.MD_Project()
+29/08/2019 08:13:12- DETALHADO -MD_Project.MD_Project(codigo)
+29/08/2019 08:13:12- DETALHADO -MD_Project.Load()
+29/08/2019 08:13:12- DETALHADO -FO_Principal.AdicionarEstimativas()
+29/08/2019 08:13:12- DETALHADO -MD_Project.GetEstimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.Load()
+29/08/2019 08:13:12- DETALHADO -Document.CalculaTempoTotalEstimativa()
+29/08/2019 08:13:12- DETALHADO -FO_Principal.AdicionaCenarios()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Cenario.MD_Cenario()
+29/08/2019 08:13:12- DETALHADO -MD_Cenario.Load()
+29/08/2019 08:13:12- DETALHADO -MD_Cenario.RetornaTodosCenarios()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Cenario.MD_Cenario()
+29/08/2019 08:13:12- DETALHADO -MD_Cenario.Load()
+29/08/2019 08:13:12- DETALHADO -MD_Status.MD_Status()
+29/08/2019 08:13:12- DETALHADO -MD_Status.InserirPrincipais()
+29/08/2019 08:13:12- DETALHADO -MD_Status.MD_Status()
+29/08/2019 08:13:12- DETALHADO -MD_Status.Load()
+29/08/2019 08:13:12- DETALHADO -MD_Project.MD_Project()
+29/08/2019 08:13:12- DETALHADO -MD_Project.MD_Project(codigo)
+29/08/2019 08:13:12- DETALHADO -MD_Project.Load()
+29/08/2019 08:13:12- DETALHADO -FO_Principal.AdicionarEstimativas()
+29/08/2019 08:13:12- DETALHADO -MD_Project.GetEstimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.Load()
+29/08/2019 08:13:12- DETALHADO -Document.CalculaTempoTotalEstimativa()
+29/08/2019 08:13:12- DETALHADO -FO_Principal.AdicionaCenarios()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Cenario.MD_Cenario()
+29/08/2019 08:13:12- DETALHADO -MD_Cenario.Load()
+29/08/2019 08:13:12- DETALHADO -MD_Status.MD_Status()
+29/08/2019 08:13:12- DETALHADO -MD_Status.InserirPrincipais()
+29/08/2019 08:13:12- DETALHADO -MD_Status.MD_Status()
+29/08/2019 08:13:12- DETALHADO -MD_Status.Load()
+29/08/2019 08:13:12- DETALHADO -MD_Cenario.RetornaTodosCenarios()
+29/08/2019 08:13:12- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:12- DETALHADO -MD_Cenario.MD_Cenario()
+29/08/2019 08:13:12- DETALHADO -MD_Cenario.Load()
+29/08/2019 08:13:12- DETALHADO -MD_Status.MD_Status()
+29/08/2019 08:13:12- DETALHADO -MD_Status.InserirPrincipais()
+29/08/2019 08:13:12- DETALHADO -MD_Status.MD_Status()
+29/08/2019 08:13:12- DETALHADO -MD_Status.Load()
+29/08/2019 08:13:14- DETALHADO -FO_Principal.trv_projetos_AfterSelect()
+29/08/2019 08:13:14- DETALHADO -FO_Principal.AbrePagina()
+29/08/2019 08:13:14- DETALHADO -MD_Project.MD_Project()
+29/08/2019 08:13:14- DETALHADO -MD_Project.MD_Project(codigo)
+29/08/2019 08:13:14- DETALHADO -MD_Project.Load()
+29/08/2019 08:13:14- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:14- DETALHADO -MD_Cenario.MD_Cenario()
+29/08/2019 08:13:14- DETALHADO -MD_Cenario.Load()
+29/08/2019 08:13:14- DETALHADO -MD_Status.MD_Status()
+29/08/2019 08:13:14- DETALHADO -MD_Status.InserirPrincipais()
+29/08/2019 08:13:14- DETALHADO -MD_Status.MD_Status()
+29/08/2019 08:13:14- DETALHADO -MD_Status.Load()
+29/08/2019 08:13:14- DETALHADO -UC_CadastroCenarios.UC_CadastroCenarios()
+29/08/2019 08:13:14- DETALHADO -UC_CadastroCenarios.CarregaForm()
+29/08/2019 08:13:14- DETALHADO -UC_CadastroCenarios.PopulaLabels()
+29/08/2019 08:13:14- DETALHADO -UC_CadastroCenarios.HabilitaCampos()
+29/08/2019 08:13:14- DETALHADO -UC_CadastroCenarios.HabilitaBotoes()
+29/08/2019 08:13:14- DETALHADO -UC_CadastroCenarios.CarregaComboStatus()
+29/08/2019 08:13:14- DETALHADO -MD_Status.MD_Status()
+29/08/2019 08:13:14- DETALHADO -MD_Status.InserirPrincipais()
+29/08/2019 08:13:14- DETALHADO -MD_Status.MD_Status()
+29/08/2019 08:13:14- DETALHADO -MD_Status.Load()
+29/08/2019 08:13:14- DETALHADO -MD_Status.ComandoTodosStatus()
+29/08/2019 08:13:14- DETALHADO -UC_CadastroCenarios.PreencheListView()
+29/08/2019 08:13:14- DETALHADO -FO_Principal.AbreJanela()
+29/08/2019 08:13:15- DETALHADO -UC_CadastroCenarios.btn_gerar_document_Click()
+29/08/2019 08:13:25- DETALHADO -FO_Agurade.FO_Agurade()
+29/08/2019 08:13:25- DETALHADO -Document.CriaRelatoria
+29/08/2019 08:13:25- DETALHADO -Document.CriaEstimativa
+29/08/2019 08:13:25- DETALHADO -MD_Project.GetEstimativa()
+29/08/2019 08:13:25- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:25- DETALHADO -MD_Estimativa.MD_Estimativa()
+29/08/2019 08:13:25- DETALHADO -MD_Estimativa.Load()
+29/08/2019 08:13:25- DETALHADO -Document.CriaArquivoXML
+29/08/2019 08:13:25- DETALHADO -Document.MontaCSVCenario()
+29/08/2019 08:13:25- DETALHADO -Document.GetTextoCenario()
+29/08/2019 08:13:25- DETALHADO -Document.CriarPdf()
+29/08/2019 08:13:25- DETALHADO -C:\Program Files (x86)\CaseMaker\Tester_Documents -i "C:\Program Files (x86)\CaseMaker\TEMP\saida.xml" -o "C:\Users\Landix\Desktop" -c "C:\Program Files (x86)\CaseMaker\TEMP\file_json.json" -l
+29/08/2019 08:13:26- SIMPLES -
+29/08/2019 08:13:26- SIMPLES -
+29/08/2019 08:13:26- SIMPLES -----------------------------------------------------------------------------------------------------------------------
+29/08/2019 08:13:26- SIMPLES -Iniciando Programa
+29/08/2019 08:13:26- SIMPLES -Arquivo de entrada: C:\Program Files (x86)\CaseMaker\TEMP\saida.xml
+29/08/2019 08:13:26- SIMPLES -Diretório de saída: C:\Users\Landix\Desktop
+29/08/2019 08:13:26- SIMPLES -Configuracao: C:\Program Files (x86)\CaseMaker\TEMP\file_json.json
+29/08/2019 08:13:26- SIMPLES -Log: Detalhado
+29/08/2019 08:13:26- DETALHADO -Program.CarregaConfiguracao
+29/08/2019 08:13:26- DETALHADO -MD_PDFInformations.MD_PDFInformations()
+29/08/2019 08:13:26- SIMPLES -Abrindo conexão. Banco: C:\Program Files (x86)\CaseMaker\BASE\pckdb.db3
+29/08/2019 08:13:26- DETALHADO -MD_PDFInformations.MD_PDFInformations(codigo)
+29/08/2019 08:13:26- DETALHADO -MD_PDFInformations.Load()
+29/08/2019 08:13:26- DETALHADO -MD_PDFInformations.Insert()
+29/08/2019 08:13:26- DETALHADO -MD_PDFInformations.VerificaExiste()
+29/08/2019 08:13:26- DETALHADO -MD_PDFInformations.Update()
+29/08/2019 08:13:26- DETALHADO -Configuração carregada com sucesso!
+29/08/2019 08:13:26- DETALHADO -Program.Create
+29/08/2019 08:13:26- DETALHADO -Documento_From_XML.GerarRelatorio
+29/08/2019 08:13:26- DETALHADO -Documento.VerificaExisteFile
+29/08/2019 08:13:26- DETALHADO -Documento.VerificaExisteDirectory
+29/08/2019 08:13:26- DETALHADO -Documento.MontaHTMLTabulado
+29/08/2019 08:13:27- DETALHADO -Documento.MontaImagemFromHtml
+29/08/2019 08:13:27- DETALHADO -Documento.MontaImagemFromHtml
+29/08/2019 08:13:27- DETALHADO -Documento.VerificaExisteFile
+29/08/2019 08:13:33- DETALHADO -Documento.MontaHTMLTabulado
+29/08/2019 08:13:36- DETALHADO -Documento.MontaImagemFromHtml
+29/08/2019 08:13:36- DETALHADO -Documento.MontaImagemFromHtml
+29/08/2019 08:13:36- DETALHADO -Documento.VerificaExisteFile
+29/08/2019 08:13:37- DETALHADO -MD_PDFInformations.MD_PDFInformations()
+29/08/2019 08:13:37- DETALHADO -MD_PDFInformations.MD_PDFInformations(codigo)
+29/08/2019 08:13:37- DETALHADO -MD_PDFInformations.Load()
+29/08/2019 08:13:37- DETALHADO -Documento.MontaPDFFromImages
+29/08/2019 08:13:38- DETALHADO -Documento.VerificaExisteFile
+29/08/2019 08:13:38- DETALHADO -Documento.VerificaExisteFile
+29/08/2019 08:13:38- DETALHADO -MD_PDFInformations.MD_PDFInformations()
+29/08/2019 08:13:38- DETALHADO -MD_PDFInformations.MD_PDFInformations(codigo)
+29/08/2019 08:13:38- DETALHADO -MD_PDFInformations.Load()
+29/08/2019 08:13:38- SIMPLES -Arquivo gerado com sucesso. C:\Users\Landix\Desktop\saida.pdf
+29/08/2019 08:13:38- SIMPLES -Finalizando Programa
+29/08/2019 08:13:38- SIMPLES -----------------------------------------------------------------------------------------------------------------------
+29/08/2019 08:13:45- DETALHADO -Document.ExecutaFile()
+29/08/2019 08:31:48- SIMPLES ---------------------------------------Finalizando sistema
